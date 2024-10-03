@@ -65,11 +65,7 @@
     src: url('/recipe-page-main/assets/fonts/young-serif/YoungSerif-Regular.ttf'), 
 }
 
-/** {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}*/
+
 * {
     margin: 0.5em 0.5em;
     padding: 0;
@@ -87,15 +83,6 @@ header img {
     padding:0;
 }
 
-/*img{
-    
-    margin: 0;
-    padding: 0;
-    width: 100vw;
-    height: auto;
-    display: block;
-
-}*/
 
  body {
     font-family: 'Outfit';
@@ -134,8 +121,6 @@ article > div {
 h3 {
     color: var(--clr-rose800);
 }
-
- /*style the horizontal lines*/
 
 .preparation-time b {
     color: var(--clr-stone600) ;
