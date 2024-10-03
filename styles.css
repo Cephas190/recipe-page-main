@@ -75,21 +75,34 @@
     padding: 0;
 }
 
-img{
-    /*8margin: -1em;*/
+header {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+header img {
+    width: 100%;
+    margin:0;
+    padding:0;
+}
+
+/*img{
+    
     margin: 0;
     padding: 0;
     width: 100vw;
     height: auto;
     display: block;
 
-}
+}*/
 
  body {
     font-family: 'Outfit';
     font-weight: 500;
     background-color: var(--clr-white);
     color: var(--clr-stone600);
+    margin-top: 1em;
     
 }
 
@@ -121,11 +134,12 @@ h3 {
     color: var(--clr-rose800);
 }
 
- .hr {
-    color: red;
-}
+ /*style the horizontal lines*/
 
 .preparation-time b {
     color: var(--clr-stone600) ;
     margin-right: 0;
 }
+
+
+
