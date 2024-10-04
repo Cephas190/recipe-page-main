@@ -9,8 +9,6 @@
 --clr-rose50:  hsl(330, 100%, 98%);
 }
 
-
-
 @font-face {
     font-family: 'Outfit', 'sans-serif';
     font-weight: 400;
@@ -163,6 +161,10 @@ hr {
 .nutrition-table td {
     padding: 0 1.85rem;
     line-height: 2.1em;
+}
+
+td:nth-child(2) {
+    color: var(--clr-brown800);
 }
 
 
