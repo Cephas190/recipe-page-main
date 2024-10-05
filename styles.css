@@ -18,7 +18,7 @@
 @font-face {
     font-family: 'Outfit', 'sans-serif';
     font-weight: bold;
-    src:  url('/recipe-page-main/assets/fonts/outfit/static/Outfit-Bold.ttf'); 
+    src:  url('recipe-page-main/assets/fonts/outfit/static/Outfit-Bold.ttf'); 
 }
 @font-face {
     font-family: 'Outfit', 'sans-serif';
